@@ -1,0 +1,17 @@
+C:\Users\mcyil\source\repos\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\mcyil\source\repos\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcyil\source\repos\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\mcyil\source\repos\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\mcyil\source\repos\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\mcyil\source\repos\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\mcyil\source\repos\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+C:\Users\mcyil\source\repos\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\mcyil\source\repos\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\mcyil\source\repos\DataAccessLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\mcyil\source\repos\DataAccessLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\mcyil\source\repos\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+C:\Users\mcyil\source\repos\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\mcyil\source\repos\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\mcyil\source\repos\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\mcyil\source\repos\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\mcyil\source\repos\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll

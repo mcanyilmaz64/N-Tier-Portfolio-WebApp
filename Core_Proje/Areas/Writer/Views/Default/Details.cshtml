@@ -1,0 +1,17 @@
+﻿@model EntityLayer.Concrete.Announcement
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_WriterLayout.cshtml";
+}
+
+<h1>Duyuru Detayları</h1>
+<form class="form-group">
+    @Html.Label("ID")
+    @Html.TextBoxFor(x =>x.ID)
+    <br />
+    @Html.Label("İçerik")
+    @Html.TextBoxFor(x=>x.Content)
+    <br />
+
+</form>

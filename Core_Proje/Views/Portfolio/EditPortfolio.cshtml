@@ -1,0 +1,51 @@
+﻿@model EntityLayer.Concrete.Portfolio
+@{
+    ViewData["Title"] = "EditPortfolio";
+    Layout = "~/Views/Shared/_NewAdminLayout.cshtml";
+}
+
+@using (Html.BeginForm("EditPortfolio", "Portfolio", FormMethod.Post))
+{
+    <div class="col-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title"> Servis Düzenleme Paneli</h4>
+                <p class="card-description"></p>
+                <form class="forms-sample">
+
+                    <div class="form-group">
+                        <label>Proje Başlığı</label>
+                        @Html.TextBoxFor(x => x.Name, new { @class = "form-control" })
+                    </div>
+
+                    <div class="form-group">
+                        <label>Görsel Url</label>
+                        @Html.TextBoxFor(x => x.ImageUrl, new { @class = "form-control" })
+                    </div>
+                     <div class="form-group">
+                        <label>Görsel Url 2</label>
+                        @Html.TextBoxFor(x => x.ImageUrl2, new { @class = "form-control" })
+                    </div>
+                    <div class="form-group">
+                        <label>Proje Url 2</label>
+                        @Html.TextBoxFor(x => x.ProjectUrl, new { @class = "form-control" })
+                    </div>
+                    <div class="form-group">
+                        <label>Fiyat</label>
+                        @Html.TextBoxFor(x => x.Price, new { @class = "form-control" })
+                    </div>
+                    <div class="form-group">
+                        <label>Tamamlanma Oranı</label>
+                        @Html.TextBoxFor(x => x.Value, new { @class = "form-control" })
+                    </div>
+
+
+
+                    <button type="submit" class="btn btn-primary mr-2">Kaydet</button>
+                    <button class="btn btn-dark">İptal</button>
+                </form>
+            </div>
+        </div>
+    </div>
+}
+
